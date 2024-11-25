@@ -197,8 +197,7 @@ Players take turns placing pieces on the grid, activating abilities, and attempt
 
 ## Additional Rules
 ### Orientation:
-- When placing a piece, you choose its orientation.
-- Once placed, the orientation cannot be changed.
+- All pieces must be placed in a single upward-facing orientation.
 
 ### Markers:
 - Use your markers to indicate control over pieces.
